@@ -20,7 +20,7 @@ FOLDER=: 'finance/finexecbasicfinance'
 
 FILES=: 0 : 0
 finexecbasicfinance.ijs
-intruduction_tut.ijs
+introduction_tut.ijs
 manifest.ijs
 basicfinance/basicfinance_terminology.html
 basicfinance/compound.ijs
