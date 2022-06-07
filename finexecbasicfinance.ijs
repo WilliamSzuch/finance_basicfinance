@@ -114,7 +114,7 @@ NB. jsoftware ''
 NB. ---------------------------------------------------------
 jsoftware =: 3 : 0
 if. IFQT =1 do. browse_j_ 'http://www.jsoftware.com' end.
-if. else.L =. '<a href="http://www.jsoftware.com" target="_blank">Finexec</a>'
+if. IFJHS = 1 do. L =. '<a href="http://www.jsoftware.com" target="_blank">Finexec</a>'
 jhtml '<div contenteditable="false"></span>',L end.
 if. IFJPLAY = 1 do. browse_jply 'https://www.jsoftware.com' end.
 )
