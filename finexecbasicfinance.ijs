@@ -104,7 +104,7 @@ finexec =: 3 : 0
 if. IFQT =1 do. browse_j_ 'http://www.finexec.com.au' end. 
 if. IFJHS =  1 do. L =. '<a href="http://www.finexec.com.au" target="_blank">Finexec</a>'
 jhtml '<div contenteditable="false"></span>',L end.
-if. IFJPLAY = 1 do. browse_jply 'http://www.finexec.com.au' end.
+if. IFJPLAY = 1 do. browse_jplay 'http://www.finexec.com.au' end.
 )
 
 
@@ -170,7 +170,7 @@ smoutput 'cash_flow_approach_tut ''''',''
 NB. =========================================================
 NB. introduction_tut ''
 introduction_tut =: 3 : 0
-spx_jsp_  '~addons/finance/finexec/introduction_tut.ijs'
+spx_jsp_  '~addons/finance/finexecbasicfinance/introduction_tut.ijs'
 )
 
 NB. =========================================================
