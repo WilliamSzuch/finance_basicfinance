@@ -145,6 +145,7 @@ NB. Initial output on: load 'finance/finexec
 smoutput  ADDON_MSG
 smoutput <'Run the following sentences for information'
 smoutput 'finexec ''''','                  NB. Finexec home'
+smoutput 'finexec_tutorials ''''','        NB. List and run tutorials'
 
 
 NB. =========================================================
@@ -163,6 +164,7 @@ smoutput 'simple_interest_tut ''''',''
 smoutput 'compound_interest_tut ''''','' 
 smoutput 'cash_flow_approach_tut ''''','' 
 )
+
 
 
 NB. =========================================================
