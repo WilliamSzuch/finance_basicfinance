@@ -33,7 +33,7 @@ IFJPLAY =: IFQT = IFJHS  NB. J Playground session
 load_sp =: 3 : 0
 if. IFQT = 1 do. require '~addons/ide/jhs/sp.ijs'  end. 
 if. IFJHS = 1 do. require '~addons/ide/jhs/sp.ijs' end.
-if. IFJPLAY = 1 do. require '~addons/finance/finexecbasicfinance/sp/sp.ijs' end.
+if. IFJPLAY = 1 do. require '~addons/finexecbasicfinance/sp/sp.ijs' end.
 smoutput <'*** sp loaded ***'
 )
 load_sp ''
