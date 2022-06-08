@@ -2,12 +2,12 @@
 NB. =========================================================
 TITLE: Finexec: Introduction to Finexec Tutorials
 Contributor: William Szuch
-Updated: 2022-05-27
+Updated: 2022-06-08
 Finexec tutorials use the Simple Project(sp) manager and related tools.
 For Finexec tutorials:
 require 'finance/finexec'
 require '~addons/ide/jhs/sp.ijs' NB. To run tutorials
-spx_jsp_'~addons/finance/finexec/introduction_tut.ijs'
+spx_jsp_'~addons/finance/finexecbasicfinance/introduction_tut.ijs'
 spx':'   NB. To show Tutorial Sections 
 )
 
@@ -40,7 +40,7 @@ Put the script in another window so you can read the
 script as it is stepped through. Or just close the window.
 Useful to show the scripts line numbers (Edit|View). 
 )
-showscript '~addons/finance/finexec/introduction_tut.ijs'
+showscript '~addons/finance/finexecbasicfinance/introduction_tut.ijs'
 
 NB. =========================================================
 NB.spxsection:Starting a Tutorial

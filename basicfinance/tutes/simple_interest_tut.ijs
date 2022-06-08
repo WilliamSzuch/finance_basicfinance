@@ -3,7 +3,7 @@ NB. =========================================================
 TITLE: Simple Interest (Flat Interest)
 Contributor: William Szuch
 Updated: 2022-05-27
-spx_jsp_ '~addons/finance/finexec/basicfinance/tutes/simple_interest_tut.ijs'
+spx_jsp_ '~addons/finance/finexecbasicfinance/basicfinance/tutes/simple_interest_tut.ijs'
 )
 
 NB. =========================================================
@@ -17,8 +17,8 @@ The tutorial introduces the definitions for
 simple interest rate calculations and how they 
 can be applied.
 )
-showscript '~addons/finance/finexec/basicfinance/tutes/simple_interest_tut.ijs'
-load '~addons/finance/finexec/basicfinance/simple.ijs'
+showscript '~addons/finance/finexecbasicfinance/basicfinance/tutes/simple_interest_tut.ijs'
+load '~addons/finance/finexecbasicfinance/basicfinance/simple.ijs'
 finexec_html 'basicfinance/docs/simple.htm'
 names ''
 

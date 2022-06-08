@@ -69,7 +69,7 @@ data =. fread  getscripts_j_ y
 NB. =========================================================
 NB. Show the script source for a file.
 NB. In Qt, JHS and the J PLayground
-NB. showscript '~addons/finance/finexec/basicfinance/simple.ijs'
+NB. showscript '~addons/finance/finexecbasicfinance/basicfinance/simple.ijs'
 NB. ---------------------------------------------------------
 NB. J Playground
 NB. showscript '~addons/math/misc/bigpi.ijs'
@@ -117,15 +117,6 @@ if. IFQT =1 do. browse_j_ 'http://www.jsoftware.com' end.
 if. IFJHS = 1 do. L =. '<a href="http://www.jsoftware.com" target="_blank">Finexec</a>'
 jhtml '<div contenteditable="false"></span>',L end.
 if. IFJPLAY = 1 do. browse_jply 'https://www.jsoftware.com' end.
-)
-
-
-NB. =========================================================
-NB. Show the finexec_doc window.
-NB. finexec_doc ''
-NB. ---------------------------------------------------------
-finexec_doc =: 3 : 0
-finexec_html 'finexec_doc.html'
 )
 
 
