@@ -1,7 +1,7 @@
 NB. =========================================================
 NB.%finexecbasicfinance.ijs - Basic Finexec addon
 NB.- Script: ~addons/finance/finexecbasicfinance/finexecbasicfinance.ijs
-NB.- Updated: 2022-06-07
+NB.- Updated: 2022-06-08
 NB.- Depend: ~addons/ide/jhs/sp.ijs'
 NB.- Definitions: loaded to locale z
 NB.-<hr>
