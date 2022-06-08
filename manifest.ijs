@@ -59,6 +59,7 @@ basicfinance/eqs/simple_ijs.gif
 basicfinance/tutes/cash_flow_approach_tut.ijs
 basicfinance/tutes/compound_interest_tut.ijs
 basicfinance/tutes/simple_interest_tut.ijs
+sp/jfif.ijs
 sp/sp.ijs
 )
 
