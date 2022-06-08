@@ -1,6 +1,6 @@
 NB. simple project manager and related tools
 
-NB. require'~addons/ide/jhs/jfif.ijs'
+require'~addons/finance/finexecbasicfinance/sp/jfif.ijs'
 
 coclass'jsp'
 
