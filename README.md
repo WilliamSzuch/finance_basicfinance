@@ -1,3 +1,3 @@
-# finance_finexecbasicfinance
+# finance_basicfinance
 Basic finance  calcs
 Use for testing 
